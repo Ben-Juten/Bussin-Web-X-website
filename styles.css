@@ -1,20 +1,21 @@
 body{
     direction: column;
     align-items: center;
-    background: #252425;
+    background-color: #252425;
 }
 
 main{
     padding: 100px;
-    margin: 20px;
-    background: #808080;
+    margin-top: 20px;
+    background-color: #808080;
     border-radius: 12px;
     align-items: center;
     direction: column;
+    gap: 20px;
 }
 
 sendPrayerWrapper{
-    background: #002267;
+    background-color: #002267;
     padding: 20px;
     align-items: center;
     direction: row;
@@ -23,10 +24,11 @@ sendPrayerWrapper{
 
 prayerWrapper{
     padding: 50px;
-    background: #808080;
+    background-color: #808080;
     align-items: center;
     border-radius: 12px;
     direction: column;
+    margin-top: 50px;
 }
 
 h1{
