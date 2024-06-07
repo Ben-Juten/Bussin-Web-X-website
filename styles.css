@@ -1,0 +1,40 @@
+body{
+    direction: row;
+    align-items: center;
+}
+
+prayerWrapper{
+    width: 500px;
+    height: 500px;
+    background: #808080;
+    align-items: center;
+    border-radius: 12px;
+}
+
+sendPrayerWrapper{
+    background: #002267;
+    height: 100px;
+    width: 300px;
+    align-items: center;
+    direction: row;
+    border-radius: 12px;
+}
+
+main{
+    width: 500px;
+    height: 500px;
+    background: #808080;
+    border-radius: 12px;
+    align-items: center;
+}
+
+h1{
+    padding: 50px;
+    font-size: 75px;
+}
+
+p{
+    font-size: 30;
+    color: #FFFFFF;
+    padding: 20px;
+}
