@@ -1,57 +1,55 @@
 body{
     direction: column;
     align-items: center;
-    background-color: #252425;
 }
 
 main{
     padding: 100px;
     margin-top: 20px;
-    background-color: #373737;
     border-radius: 12px;
     align-items: center;
     direction: column;
+    border: 1px solid #383838;
 }
 
 sendPrayerWrapper{
-    background-color: #424242;
     padding: 20px;
     align-items: center;
     direction: row;
     border-radius: 12px;
+    margin-top: 20px;
+    border: 1px dashed #323232;
 }
 
 prayerWrapper{
     padding: 50px;
-    background-color: #373737;
     align-items: center;
     border-radius: 12px;
     direction: column;
     margin-top: 50px;
+    border: 1px solid #383838;
 }
 
 h1{
     padding: 50px;
     font-size: 75px;
-    background-color: #373737;
 }
 
 p{
     font-size: 30px;
     color: #FFFFFF;
     padding: 20px;
-    background-color: #373737;
     margin-left: 200px;
     margin-right: 200px;
 }
 
 subtitle{
-    color: rgb(202, 202, 202);
+    color: rgb(255, 0, 0);
     font-weight: 100;
+    margin-top: 20px;
 }
 
 input{
-    background-color: #424242;
     padding: 10px;
     margin-top: 5px;
     width: 100px;
