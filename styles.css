@@ -9,7 +9,9 @@ main{
     border-radius: 12px;
     align-items: center;
     direction: column;
-    border: 1px solid #383838;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #383838;
 }
 
 sendPrayerWrapper{
@@ -17,8 +19,10 @@ sendPrayerWrapper{
     align-items: center;
     direction: row;
     border-radius: 12px;
-    margin-top: 20px;
-    border: 1px dashed #323232;
+    margin-top: 30px;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: #323232;
 }
 
 prayerWrapper{
@@ -27,12 +31,21 @@ prayerWrapper{
     border-radius: 12px;
     direction: column;
     margin-top: 50px;
-    border: 1px solid #383838;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #383838;
 }
 
 h1{
     padding: 50px;
     font-size: 75px;
+}
+
+subtitle{
+    color: rgb(255, 0, 0);
+    font-weight: 100;
+    margin-top: 30px;
+    font-size: 30px;
 }
 
 p{
@@ -41,12 +54,6 @@ p{
     padding: 20px;
     margin-left: 200px;
     margin-right: 200px;
-}
-
-subtitle{
-    color: rgb(255, 0, 0);
-    font-weight: 100;
-    margin-top: 20px;
 }
 
 input{
