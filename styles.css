@@ -1,14 +1,16 @@
 body{
-    direction: row;
+    direction: column;
     align-items: center;
     background: #252425;
 }
 
-prayerWrapper{
-    padding: 50px;
+main{
+    padding: 100px;
+    margin: 20px;
     background: #808080;
-    align-items: center;
     border-radius: 12px;
+    align-items: center;
+    direction: column;
 }
 
 sendPrayerWrapper{
@@ -19,12 +21,12 @@ sendPrayerWrapper{
     border-radius: 12px;
 }
 
-main{
-    padding: 100px;
-    margin: 20px;
+prayerWrapper{
+    padding: 50px;
     background: #808080;
-    border-radius: 12px;
     align-items: center;
+    border-radius: 12px;
+    direction: column;
 }
 
 h1{
