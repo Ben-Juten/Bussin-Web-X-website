@@ -7,15 +7,14 @@ body{
 main{
     padding: 100px;
     margin-top: 20px;
-    background-color: #484848;
+    background-color: #373737;
     border-radius: 12px;
     align-items: center;
     direction: column;
-    gap: 20;
 }
 
 sendPrayerWrapper{
-    background-color: #595959;
+    background-color: #424242;
     padding: 20px;
     align-items: center;
     direction: row;
@@ -24,7 +23,7 @@ sendPrayerWrapper{
 
 prayerWrapper{
     padding: 50px;
-    background-color: #484848;
+    background-color: #373737;
     align-items: center;
     border-radius: 12px;
     direction: column;
@@ -34,19 +33,26 @@ prayerWrapper{
 h1{
     padding: 50px;
     font-size: 75px;
-    background-color: #484848;
+    background-color: #373737;
 }
 
 p{
     font-size: 30px;
     color: #FFFFFF;
     padding: 20px;
-    background-color: #484848;
+    background-color: #373737;
     margin-left: 200px;
     margin-right: 200px;
 }
 
+subtitle{
+    color: rgb(202, 202, 202);
+    font-weight: 100;
+}
+
 input{
-    background-color: #595959;
+    background-color: #424242;
     padding: 10px;
+    margin-top: 5px;
+    width: 100px;
 }
