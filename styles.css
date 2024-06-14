@@ -1,6 +1,7 @@
 body{
     direction: column;
     align-items: center;
+    background-color: #252425;
 }
 
 main{
@@ -12,6 +13,7 @@ main{
     border-width: 1px;
     border-style: solid;
     border-color: #383838;
+    background-color: #252425;
 }
 
 sendPrayerWrapper{
@@ -23,6 +25,8 @@ sendPrayerWrapper{
     border-width: 1px;
     border-style: dashed;
     border-color: #323232;
+    background-color: #252425;
+
 }
 
 prayerWrapper{
@@ -34,6 +38,8 @@ prayerWrapper{
     border-width: 1px;
     border-style: solid;
     border-color: #383838;
+    background-color: #252425;
+
 }
 
 h1{
@@ -41,7 +47,7 @@ h1{
     font-size: 75px;
 }
 
-subtitle{
+PreyToMeP{
     color: rgb(255, 0, 0);
     font-weight: 100;
     margin-top: 30px;
@@ -54,17 +60,22 @@ prayerDisplay{
     padding: 20px;
     margin-left: 200px;
     margin-right: 200px;
+    background-color: #252425;
+
 }
 
 input{
     padding: 30px;
     margin-top: 5px;
     width: 200px;
+    height: 50px;
     margin-left: 50px;
-    margin-right: 200px;
+    margin-right: 20px;
+    background-color: #1f1f1f;
 }
 
 button{
     padding: 10px;
     margin-right: 50px;
+    background-color: #393939;
 }
