@@ -1,7 +1,7 @@
 body{
     direction: column;
     align-items: center;
-    background-color: #252425;
+    background-color: #0575e4;
 }
 
 main{
@@ -46,6 +46,7 @@ h1{
     padding: 50px;
     font-size: 75px;
     color: #FFFFFF;
+    background-color: transparent;
 }
 
 PreyToMeP{
