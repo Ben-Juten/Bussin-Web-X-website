@@ -46,7 +46,6 @@ h1{
     padding: 50px;
     font-size: 75px;
     color: #FFFFFF;
-    background-color: transparent;
     font-weight: heavy;
     background-color: #6cc12f;
 }
@@ -65,7 +64,6 @@ prayerDisplay{
     padding: 20px;
     margin-left: 200px;
     margin-right: 200px;
-    padding-right: 100px;
     background-color: #ed6816;
 }
 
