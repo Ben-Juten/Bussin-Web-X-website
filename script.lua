@@ -1,9 +1,5 @@
-local prayValue = get("prayInput")
-local totalPrayers = ""
-local prayerdisplay = get("prayerDisplay");
+local counter = 0;
 
 get("button").on_click(function()
-    local combined = "you prayed to the skibiti rizzler: " + prayValue
-    local FinishedCombining = totalPrayers + "\n" + combined
-    prayerdisplay.set_contents(FinishedCombining)
+    prayerdisplay.set_contents("you have prayed to the skibidi rizzler: " + counter + " times")
 end)
