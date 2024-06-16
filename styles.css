@@ -1,7 +1,7 @@
-pageWrapper{
+body{
     direction: column;
     align-items: center;
-    background-color: #096ed4;
+    background-color: #1599d2;
 }
 
 main{
