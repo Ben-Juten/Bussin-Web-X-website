@@ -1,7 +1,7 @@
-theBody{
+pageWrapper{
     direction: column;
     align-items: center;
-    background-color: #0575e4;
+    background: #282828;
 }
 
 main{
@@ -51,11 +51,12 @@ title{
 }
 
 PreyToMeP{
-    color: #ededed;
+    color: #dcdcdc;
     font-weight: light;
     font-size: 30px;
     background-color: #6cc12f;
     align-items: center;
+    padding: 10px;
 }
 
 prayerDisplay{
