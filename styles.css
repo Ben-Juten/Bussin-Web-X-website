@@ -1,7 +1,7 @@
 pageWrapper{
     direction: column;
     align-items: center;
-    background: #282828;
+    background: #096ed4;
 }
 
 main{
@@ -50,13 +50,17 @@ title{
     background-color: #6cc12f;
 }
 
+PrayToMePdiv{
+    background-color: #6cc12f;
+    padding: 10px;
+}
+
 PreyToMeP{
-    color: #dcdcdc;
+    color: #ffffff;
     font-weight: light;
     font-size: 30px;
     background-color: #6cc12f;
     align-items: center;
-    padding: 10px;
 }
 
 prayerDisplay{
