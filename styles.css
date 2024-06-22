@@ -1,6 +1,7 @@
 body{
     direction: column;
     align-items: center;
+    background-color: #282828;
 }
 
 main{
